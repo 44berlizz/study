@@ -8,6 +8,7 @@
 
 #ifndef Challenge_h
 #define Challenge_h
-#define CH04
+#define CH02HS
 
 #endif /* Challenge_h */
+
