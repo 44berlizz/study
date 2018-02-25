@@ -16,6 +16,14 @@
 		B45ABC232030659500B9A52B /* Challenge07.c in Sources */ = {isa = PBXBuildFile; fileRef = B45ABC222030659500B9A52B /* Challenge07.c */; };
 		B45ABC252030678D00B9A52B /* Challenge08.c in Sources */ = {isa = PBXBuildFile; fileRef = B45ABC242030678D00B9A52B /* Challenge08.c */; };
 		B45CF5252031A4F000DA044B /* Challenge09.c in Sources */ = {isa = PBXBuildFile; fileRef = B45CF5242031A4F000DA044B /* Challenge09.c */; };
+		B4B4280020431ADD00BDD79F /* JsonHash.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B427FF20431ADD00BDD79F /* JsonHash.c */; };
+		B4B4280220431E1C00BDD79F /* exam.json in Sources */ = {isa = PBXBuildFile; fileRef = B4B4280120431E1C00BDD79F /* exam.json */; };
+		B4B428042043357B00BDD79F /* Challenge01.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B428032043357B00BDD79F /* Challenge01.c */; };
+		B4B42806204338CF00BDD79F /* Challenge02.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B42805204338CF00BDD79F /* Challenge02.c */; };
+		B4B4280820433AE400BDD79F /* Challenge03.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B4280720433AE400BDD79F /* Challenge03.c */; };
+		B4B4280A20433B6A00BDD79F /* Challenge04.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B4280920433B6A00BDD79F /* Challenge04.c */; };
+		B4B4280F20433CDC00BDD79F /* Challenge05.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B4280E20433CDC00BDD79F /* Challenge05.c */; };
+		B4B428112043400100BDD79F /* Challenge06.c in Sources */ = {isa = PBXBuildFile; fileRef = B4B428102043400100BDD79F /* Challenge06.c */; };
 		B4E448592039B6BE002790A5 /* Challenge01.c in Sources */ = {isa = PBXBuildFile; fileRef = B4E448582039B6BE002790A5 /* Challenge01.c */; };
 		B4E4485B2039BA19002790A5 /* Challenge02.c in Sources */ = {isa = PBXBuildFile; fileRef = B4E4485A2039BA19002790A5 /* Challenge02.c */; };
 		B4E4485D2039D6F8002790A5 /* Challenge03.c in Sources */ = {isa = PBXBuildFile; fileRef = B4E4485C2039D6F8002790A5 /* Challenge03.c */; };
@@ -23,6 +31,7 @@
 		B4E448612039E115002790A5 /* Challenge05.c in Sources */ = {isa = PBXBuildFile; fileRef = B4E448602039E115002790A5 /* Challenge05.c */; };
 		B4E448632039E460002790A5 /* QuickSort.c in Sources */ = {isa = PBXBuildFile; fileRef = B4E448622039E460002790A5 /* QuickSort.c */; };
 		B4E448652039F163002790A5 /* Hash.c in Sources */ = {isa = PBXBuildFile; fileRef = B4E448642039F163002790A5 /* Hash.c */; };
+		B4F348A52042F59300CB9C3B /* Test.c in Sources */ = {isa = PBXBuildFile; fileRef = B4F348A42042F59300CB9C3B /* Test.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +58,14 @@
 		B45ABC222030659500B9A52B /* Challenge07.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge07.c; sourceTree = "<group>"; };
 		B45ABC242030678D00B9A52B /* Challenge08.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge08.c; sourceTree = "<group>"; };
 		B45CF5242031A4F000DA044B /* Challenge09.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge09.c; sourceTree = "<group>"; };
+		B4B427FF20431ADD00BDD79F /* JsonHash.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = JsonHash.c; sourceTree = "<group>"; };
+		B4B4280120431E1C00BDD79F /* exam.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = exam.json; sourceTree = "<group>"; };
+		B4B428032043357B00BDD79F /* Challenge01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge01.c; sourceTree = "<group>"; };
+		B4B42805204338CF00BDD79F /* Challenge02.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge02.c; sourceTree = "<group>"; };
+		B4B4280720433AE400BDD79F /* Challenge03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge03.c; sourceTree = "<group>"; };
+		B4B4280920433B6A00BDD79F /* Challenge04.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge04.c; sourceTree = "<group>"; };
+		B4B4280E20433CDC00BDD79F /* Challenge05.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge05.c; sourceTree = "<group>"; };
+		B4B428102043400100BDD79F /* Challenge06.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge06.c; sourceTree = "<group>"; };
 		B4E448582039B6BE002790A5 /* Challenge01.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge01.c; sourceTree = "<group>"; };
 		B4E4485A2039BA19002790A5 /* Challenge02.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge02.c; sourceTree = "<group>"; };
 		B4E4485C2039D6F8002790A5 /* Challenge03.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge03.c; sourceTree = "<group>"; };
@@ -56,6 +73,7 @@
 		B4E448602039E115002790A5 /* Challenge05.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Challenge05.c; sourceTree = "<group>"; };
 		B4E448622039E460002790A5 /* QuickSort.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = QuickSort.c; sourceTree = "<group>"; };
 		B4E448642039F163002790A5 /* Hash.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Hash.c; sourceTree = "<group>"; };
+		B4F348A42042F59300CB9C3B /* Test.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Test.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,7 +108,9 @@
 			children = (
 				B45ABC132030431300B9A52B /* ChallengeProgramming1 */,
 				B4E448572039B69E002790A5 /* ChallengeProgramming2 */,
+				B4B427FE20431ABA00BDD79F /* ChallengeProgramming3 */,
 				B45ABC1920304B8D00B9A52B /* Challenge.h */,
+				B4F348A42042F59300CB9C3B /* Test.c */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -109,6 +129,21 @@
 				B45CF5242031A4F000DA044B /* Challenge09.c */,
 			);
 			path = ChallengeProgramming1;
+			sourceTree = "<group>";
+		};
+		B4B427FE20431ABA00BDD79F /* ChallengeProgramming3 */ = {
+			isa = PBXGroup;
+			children = (
+				B4B427FF20431ADD00BDD79F /* JsonHash.c */,
+				B4B4280120431E1C00BDD79F /* exam.json */,
+				B4B428032043357B00BDD79F /* Challenge01.c */,
+				B4B42805204338CF00BDD79F /* Challenge02.c */,
+				B4B4280720433AE400BDD79F /* Challenge03.c */,
+				B4B4280920433B6A00BDD79F /* Challenge04.c */,
+				B4B4280E20433CDC00BDD79F /* Challenge05.c */,
+				B4B428102043400100BDD79F /* Challenge06.c */,
+			);
+			path = ChallengeProgramming3;
 			sourceTree = "<group>";
 		};
 		B4E448572039B69E002790A5 /* ChallengeProgramming2 */ = {
@@ -182,22 +217,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4F348A52042F59300CB9C3B /* Test.c in Sources */,
 				B45ABC162030439700B9A52B /* Challenge01.c in Sources */,
 				B45ABC252030678D00B9A52B /* Challenge08.c in Sources */,
 				B4E4485F2039DA61002790A5 /* Challenge04.c in Sources */,
+				B4B4280820433AE400BDD79F /* Challenge03.c in Sources */,
 				B45ABC212030648400B9A52B /* Challenge06.c in Sources */,
+				B4B4280020431ADD00BDD79F /* JsonHash.c in Sources */,
 				B4E4485B2039BA19002790A5 /* Challenge02.c in Sources */,
+				B4B42806204338CF00BDD79F /* Challenge02.c in Sources */,
 				B4E4485D2039D6F8002790A5 /* Challenge03.c in Sources */,
 				B45ABC1F203053E900B9A52B /* Challenge05.c in Sources */,
 				B4E448632039E460002790A5 /* QuickSort.c in Sources */,
 				B45CF5252031A4F000DA044B /* Challenge09.c in Sources */,
 				B4E448612039E115002790A5 /* Challenge05.c in Sources */,
 				B45ABC1D2030527300B9A52B /* Challenge04.c in Sources */,
+				B4B4280220431E1C00BDD79F /* exam.json in Sources */,
 				B4E448652039F163002790A5 /* Hash.c in Sources */,
 				B45ABC232030659500B9A52B /* Challenge07.c in Sources */,
 				B45ABC1B20304F2100B9A52B /* Challenge03.c in Sources */,
 				B4E448592039B6BE002790A5 /* Challenge01.c in Sources */,
+				B4B428042043357B00BDD79F /* Challenge01.c in Sources */,
 				B45ABC182030459800B9A52B /* Challenge02.c in Sources */,
+				B4B4280F20433CDC00BDD79F /* Challenge05.c in Sources */,
+				B4B428112043400100BDD79F /* Challenge06.c in Sources */,
+				B4B4280A20433B6A00BDD79F /* Challenge04.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
